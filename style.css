@@ -1,0 +1,26 @@
+.container{
+    border: 2px solid red;
+    text-align: center;
+    margin: 300px auto;
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+    /* background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%); */
+    width: 500px;
+    padding: 30px;
+}
+h1{
+    color:white;
+}
+button{
+    margin: 30px;
+    color: white;
+    background-color: black;
+    font-size:1.5rem;
+    border-radius: 20px;
+    width: 100px;
+}
+button:active{
+    background-color: #d53369;
+}
+.no{
+    z-index: 1;
+}
