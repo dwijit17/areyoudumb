@@ -1,0 +1,2 @@
+# areyoudumb
+funny project
